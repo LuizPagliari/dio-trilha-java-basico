@@ -1,2 +1,2 @@
-# Java-B-sico-DIO
-Curso de Java Básico da DIO
+dio-trilha-java-basico  
+Repositório para exemplos do curso de Java Básico pela DIO
